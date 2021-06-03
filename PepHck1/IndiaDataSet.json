@@ -1,0 +1,362 @@
+[
+    {
+        "Serial": "1",
+        "State_UT": "Andaman and Nicobar Islands",
+        "Total_Cases": "171",
+        "Cases_Yesterday": " 16  ",
+        "Total_Recovered": "6719",
+        "Recovered_Yesterday": " 36  ",
+        "Total_Deaths": "115",
+        "Deaths_Yesterday": " 1  "
+    },
+    {
+        "Serial": "2",
+        "State_UT": "Andhra Pradesh",
+        "Total_Cases": "153795",
+        "Cases_Yesterday": " 12000  ",
+        "Total_Recovered": "1528360",
+        "Recovered_Yesterday": " 19845  ",
+        "Total_Deaths": "10930",
+        "Deaths_Yesterday": " 98  "
+    },
+    {
+        "Serial": "3",
+        "State_UT": "Arunachal Pradesh",
+        "Total_Cases": "3755",
+        "Cases_Yesterday": " 28  ",
+        "Total_Recovered": "23402",
+        "Recovered_Yesterday": " 350  ",
+        "Total_Deaths": "115",
+        "Deaths_Yesterday": "   "
+    },
+    {
+        "Serial": "4",
+        "State_UT": "Assam",
+        "Total_Cases": "53041",
+        "Cases_Yesterday": " 754  ",
+        "Total_Recovered": "354810",
+        "Recovered_Yesterday": " 5037  ",
+        "Total_Deaths": "3365",
+        "Deaths_Yesterday": " 65  "
+    },
+    {
+        "Serial": "5",
+        "State_UT": "Bihar",
+        "Total_Cases": "16236",
+        "Cases_Yesterday": " 2142  ",
+        "Total_Recovered": "685362",
+        "Recovered_Yesterday": " 3196  ",
+        "Total_Deaths": "5163",
+        "Deaths_Yesterday": " 59  "
+    },
+    {
+        "Serial": "6",
+        "State_UT": "Chandigarh",
+        "Total_Cases": "1767",
+        "Cases_Yesterday": " 367  ",
+        "Total_Recovered": "57526",
+        "Recovered_Yesterday": " 483  ",
+        "Total_Deaths": "753",
+        "Deaths_Yesterday": " 8  "
+    },
+    {
+        "Serial": "7",
+        "State_UT": "Chhattisgarh",
+        "Total_Cases": "35741",
+        "Cases_Yesterday": " 3520  ",
+        "Total_Recovered": "922674",
+        "Recovered_Yesterday": " 5651  ",
+        "Total_Deaths": "13048",
+        "Deaths_Yesterday": " 32  "
+    },
+    {
+        "Serial": "8",
+        "State_UT": "Dadra and Nagar Haveli and Daman and Diu",
+        "Total_Cases": "325",
+        "Cases_Yesterday": " 14  ",
+        "Total_Recovered": "9957",
+        "Recovered_Yesterday": " 44  ",
+        "Total_Deaths": "4",
+        "Deaths_Yesterday": "   "
+    },
+    {
+        "Serial": "9",
+        "State_UT": "Delhi",
+        "Total_Cases": "11040",
+        "Cases_Yesterday": " 1060  ",
+        "Total_Recovered": "1390963",
+        "Recovered_Yesterday": " 1622  ",
+        "Total_Deaths": "24237",
+        "Deaths_Yesterday": " 86  "
+    },
+    {
+        "Serial": "10",
+        "State_UT": "Goa",
+        "Total_Cases": "12763",
+        "Cases_Yesterday": " 1247  ",
+        "Total_Recovered": "140254",
+        "Recovered_Yesterday": " 1825  ",
+        "Total_Deaths": "2649",
+        "Deaths_Yesterday": " 24  "
+    },
+    {
+        "Serial": "11",
+        "State_UT": "Gujarat",
+        "Total_Cases": "32345",
+        "Cases_Yesterday": " 3058  ",
+        "Total_Recovered": "766991",
+        "Recovered_Yesterday": " 4721  ",
+        "Total_Deaths": "9833",
+        "Deaths_Yesterday": " 18  "
+    },
+    {
+        "Serial": "12",
+        "State_UT": "Haryana",
+        "Total_Cases": "18580",
+        "Cases_Yesterday": " 2507  ",
+        "Total_Recovered": "729752",
+        "Recovered_Yesterday": " 3671  ",
+        "Total_Deaths": "8303",
+        "Deaths_Yesterday": " 82  "
+    },
+    {
+        "Serial": "13",
+        "State_UT": "Himachal Pradesh",
+        "Total_Cases": "13621",
+        "Cases_Yesterday": " 1319  ",
+        "Total_Recovered": "173566",
+        "Recovered_Yesterday": " 2168  ",
+        "Total_Deaths": "3143",
+        "Deaths_Yesterday": " 16  "
+    },
+    {
+        "Serial": "14",
+        "State_UT": "Jammu and Kashmir",
+        "Total_Cases": "35095",
+        "Cases_Yesterday": " 2582  ",
+        "Total_Recovered": "251463",
+        "Recovered_Yesterday": " 4070  ",
+        "Total_Deaths": "3907",
+        "Deaths_Yesterday": " 37  "
+    },
+    {
+        "Serial": "15",
+        "State_UT": "Jharkhand",
+        "Total_Cases": "8907",
+        "Cases_Yesterday": " 999  ",
+        "Total_Recovered": "323876",
+        "Recovered_Yesterday": " 1816  ",
+        "Total_Deaths": "4991",
+        "Deaths_Yesterday": " 14  "
+    },
+    {
+        "Serial": "16",
+        "State_UT": "Karnataka",
+        "Total_Cases": "313751",
+        "Cases_Yesterday": " 28280  ",
+        "Total_Recovered": "2261590",
+        "Recovered_Yesterday": " 44473  ",
+        "Total_Deaths": "29090",
+        "Deaths_Yesterday": " 411  "
+    },
+    {
+        "Serial": "17",
+        "State_UT": "Kerala",
+        "Total_Cases": "207379",
+        "Cases_Yesterday": " 16741  ",
+        "Total_Recovered": "2310385",
+        "Recovered_Yesterday": " 28867  ",
+        "Total_Deaths": "8815",
+        "Deaths_Yesterday": " 174  "
+    },
+    {
+        "Serial": "18",
+        "State_UT": "Ladakh",
+        "Total_Cases": "1614",
+        "Cases_Yesterday": " 59  ",
+        "Total_Recovered": "16859",
+        "Recovered_Yesterday": " 105  ",
+        "Total_Deaths": "189",
+        "Deaths_Yesterday": " 1  "
+    },
+    {
+        "Serial": "19",
+        "State_UT": "Lakshadweep",
+        "Total_Cases": "1802",
+        "Cases_Yesterday": " 204  ",
+        "Total_Recovered": "6242",
+        "Recovered_Yesterday": " 352  ",
+        "Total_Deaths": "33",
+        "Deaths_Yesterday": " 1  "
+    },
+    {
+        "Serial": "20",
+        "State_UT": "Madhya Pradesh",
+        "Total_Cases": "23390",
+        "Cases_Yesterday": " 3866  ",
+        "Total_Recovered": "748573",
+        "Recovered_Yesterday": " 5023  ",
+        "Total_Deaths": "8067",
+        "Deaths_Yesterday": " 48  "
+    },
+    {
+        "Serial": "21",
+        "State_UT": "Maharashtra",
+        "Total_Cases": "256178",
+        "Cases_Yesterday": " 18423  ",
+        "Total_Recovered": "5395370",
+        "Recovered_Yesterday": " 33000  ",
+        "Total_Deaths": "95344",
+        "Deaths_Yesterday": " 500  "
+    },
+    {
+        "Serial": "22",
+        "State_UT": "Manipur",
+        "Total_Cases": "8791",
+        "Cases_Yesterday": " 309  ",
+        "Total_Recovered": "41153",
+        "Recovered_Yesterday": " 546  ",
+        "Total_Deaths": "807",
+        "Deaths_Yesterday": " 14  "
+    },
+    {
+        "Serial": "23",
+        "State_UT": "Meghalaya",
+        "Total_Cases": "6913",
+        "Cases_Yesterday": " 583  ",
+        "Total_Recovered": "28107",
+        "Recovered_Yesterday": " 977  ",
+        "Total_Deaths": "578",
+        "Deaths_Yesterday": " 14  "
+    },
+    {
+        "Serial": "24",
+        "State_UT": "Mizoram",
+        "Total_Cases": "3145",
+        "Cases_Yesterday": " 111  ",
+        "Total_Recovered": "9214",
+        "Recovered_Yesterday": " 199  ",
+        "Total_Deaths": "40",
+        "Deaths_Yesterday": " 2  "
+    },
+    {
+        "Serial": "25",
+        "State_UT": "Nagaland",
+        "Total_Cases": "4934",
+        "Cases_Yesterday": " 115  ",
+        "Total_Recovered": "16370",
+        "Recovered_Yesterday": " 219  ",
+        "Total_Deaths": "376",
+        "Deaths_Yesterday": " 13  "
+    },
+    {
+        "Serial": "26",
+        "State_UT": "Odisha",
+        "Total_Cases": "81311",
+        "Cases_Yesterday": " 2127  ",
+        "Total_Recovered": "680932",
+        "Recovered_Yesterday": " 10405  ",
+        "Total_Deaths": "2754",
+        "Deaths_Yesterday": " 35  "
+    },
+    {
+        "Serial": "27",
+        "State_UT": "Puducherry",
+        "Total_Cases": "11147",
+        "Cases_Yesterday": " 1020  ",
+        "Total_Recovered": "91770",
+        "Recovered_Yesterday": " 1629  ",
+        "Total_Deaths": "1536",
+        "Deaths_Yesterday": " 18  "
+    },
+    {
+        "Serial": "28",
+        "State_UT": "Punjab",
+        "Total_Cases": "36433",
+        "Cases_Yesterday": " 2830  ",
+        "Total_Recovered": "516624",
+        "Recovered_Yesterday": " 4904  ",
+        "Total_Deaths": "14550",
+        "Deaths_Yesterday": " 118  "
+    },
+    {
+        "Serial": "29",
+        "State_UT": "Rajasthan",
+        "Total_Cases": "42654",
+        "Cases_Yesterday": " 6570  ",
+        "Total_Recovered": "888919",
+        "Recovered_Yesterday": " 8000  ",
+        "Total_Deaths": "8385",
+        "Deaths_Yesterday": " 68  "
+    },
+    {
+        "Serial": "30",
+        "State_UT": "Sikkim",
+        "Total_Cases": "4021",
+        "Cases_Yesterday": " 60  ",
+        "Total_Recovered": "11043",
+        "Recovered_Yesterday": " 83  ",
+        "Total_Deaths": "253",
+        "Deaths_Yesterday": " 3  "
+    },
+    {
+        "Serial": "31",
+        "State_UT": "Tamil Nadu",
+        "Total_Cases": "301781",
+        "Cases_Yesterday": " 3765  ",
+        "Total_Recovered": "1770503",
+        "Recovered_Yesterday": " 31223  ",
+        "Total_Deaths": "24232",
+        "Deaths_Yesterday": " 478  "
+    },
+    {
+        "Serial": "32",
+        "State_UT": "Telangana",
+        "Total_Cases": "34084",
+        "Cases_Yesterday": " 958  ",
+        "Total_Recovered": "540986",
+        "Recovered_Yesterday": " 3464  ",
+        "Total_Deaths": "3281",
+        "Deaths_Yesterday": " 18  "
+    },
+    {
+        "Serial": "33",
+        "State_UT": "Tripura",
+        "Total_Cases": "6547",
+        "Cases_Yesterday": " 10  ",
+        "Total_Recovered": "44908",
+        "Recovered_Yesterday": " 845  ",
+        "Total_Deaths": "519",
+        "Deaths_Yesterday": " 6  "
+    },
+    {
+        "Serial": "34",
+        "State_UT": "Uttarakhand",
+        "Total_Cases": "28371",
+        "Cases_Yesterday": " 1986  ",
+        "Total_Recovered": "294671",
+        "Recovered_Yesterday": " 3091  ",
+        "Total_Deaths": "6452",
+        "Deaths_Yesterday": " 51  "
+    },
+    {
+        "Serial": "35",
+        "State_UT": "Uttar Pradesh",
+        "Total_Cases": "37044",
+        "Cases_Yesterday": " 4170  ",
+        "Total_Recovered": "1633947",
+        "Recovered_Yesterday": " 5491  ",
+        "Total_Deaths": "20497",
+        "Deaths_Yesterday": " 151  "
+    },
+    {
+        "Serial": "36",
+        "State_UT": "West Bengal",
+        "Total_Cases": "87048",
+        "Cases_Yesterday": " 7850  ",
+        "Total_Recovered": "1273788",
+        "Recovered_Yesterday": " 17856  ",
+        "Total_Deaths": "15541",
+        "Deaths_Yesterday": " 131  "
+    }
+]
