@@ -5,7 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.9",
-    "json2xls": "^0.1.2"
+    "express": "^4.17.1",
+    "json2xls": "^0.1.2",
+    "nodemailer": "^6.6.1",
+    "puppeteer": "^10.0.0",
+    "request": "^2.88.2"
   },
   "devDependencies": {},
   "scripts": {
