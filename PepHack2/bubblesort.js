@@ -41,6 +41,6 @@ async function bubbleSort(delay=100) {
 
         //changing the color of greatest element 
         //found in the above traversal
-        elements[elements.length - i - 1].style.backgroundColor = "#13CE66";
+        elements[elements.length - i - 1].style.backgroundColor = "#e67e22";
     }
 }

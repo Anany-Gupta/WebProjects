@@ -4,6 +4,7 @@
     padding: 0;
 }
 
+
 html {
     min-height: 100vh;
     background: radial-gradient(ellipse at bottom, #0d1d31 0%, #0c0d13 100%);
@@ -53,12 +54,14 @@ header {
 .Logo:hover img.icon2 {
     opacity: 1;
 }
-.panel{
+
+.panel {
     display: flex;
     width: 50%;
     justify-content: space-evenly;
     align-items: center;
 }
+
 .panel-btns {
     color: white;
     width: auto;
@@ -66,7 +69,6 @@ header {
     cursor: pointer;
     margin-top: 30px;
 }
-
 
 .panel-btns::after {
     content: '';
@@ -84,54 +86,56 @@ header {
 .panel-btns:hover::after {
     transform: scale(1, 1);
 }
-main{
+
+main {
     height: calc( 100vh - 220px);
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
     /* background-colorblue; */
-
+    
 }
 
-.element-divs{
-    position:absolute;
+.element-divs {
+    position: absolute;
     bottom: 20px;
-    
     min-width: 800px;
     /* width: 1200px; */
     display: flex;
-    flex-direction:row;
-    align-items:flex-end;
+    flex-direction: row;
+    align-items: flex-end;
     justify-content: space-evenly;
     color: white;
     gap: 4px;
 }
-.element{
+
+.element {
     background-color: burlywood;
     width: 20px;
-
 }
-.list{
-    position:absolute;
+
+.list {
+    position: absolute;
     bottom: 0px;
     height: 20px;
     min-width: 800px;
     display: flex;
-    flex-direction:row;
-    align-items:flex-start;
+    flex-direction: row;
+    align-items: flex-start;
     justify-content: space-evenly;
-    
     color: white;
     gap: 4px;
-    font-size:10px;
+    font-size: 10px;
 }
-.list-element{
+
+.list-element {
     height: 100%;
     display: inline;
     align-items: center;
     width: 20px;
 }
-.changepnl{
+
+.changepnl {
     color: white;
 }
