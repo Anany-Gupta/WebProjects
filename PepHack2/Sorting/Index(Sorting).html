@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gladiators</title>
+    <link rel="stylesheet" href="./style.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Asap:wght@600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <div class="Logo"><img class="icon1" src="./Logo1.png" alt=""><img class="icon2" src="./Logo2.png" alt=""></div>
+        <div class="changepnl">
+            <div class="array-size">
+                Array Size:
+                <input type="range" id="arraylen" min="10" max="60">
+            </div>
+            <div class="speed">
+                Sorting Speed:
+                <select name="speed" id="speed" >
+                    <option value="300">x1</option>
+                    <option value="1200">x.25</option>
+                    <option value="600">x0.5</option>
+                    <option value="150">x2</option>
+                    <option value="75">x4</option>
+                    <option value="20">x8</option>
+                </select>
+            </div>
+        </div>
+        <div class="panel">
+            <div class="panel-btns crt">New Array</div>
+            <div class="panel-btns bbl">Bubble Sort</div>
+            <div class="panel-btns sel">Selection Sort</div>
+            <div class="panel-btns ins">Insertion Sort</div>
+            <div class="panel-btns qck">Quick Sort</div>
+            <div class="panel-btns mrg">Merge Sort</div>
+        </div>
+    </header>
+    <main>
+        <div class="element-divs">
+
+        </div>
+        <div class="list">
+
+        </div>
+    </main>
+    
+    <script src="./Main.js"></script>
+    <script src="./sortingAlgo.js"></script>
+
+</body>
+
+</html>
