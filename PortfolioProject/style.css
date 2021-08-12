@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    width: 100vw;
+    overflow-x: hidden;
+}
+
+.animation {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    color: #fff;
+    background: linear-gradient(+45deg, #D5B280, #C2B280, #C2B280, #23A6D5, #23A6D5, #23D5AB);
+    background-size: 200% 600%;
+    position: relative;
+    animation: change 10s ease-in-out infinite;
+}
+
+.nav-bar {
+    height: 100px;
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: flex-end;
+    gap: 10%;
+    align-items: center;
+    background-color:rgb(0 0 0 / 60%);
+    padding-right: 100px;
+}
+.nav-bar div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60%;
+    width: 60px;
+}
+
+button {
+    cursor: pointer;
+    height: 100%;
+    width: 100%;
+    background: none;
+    color: #fff;
+    outline: none;
+    border: none;
+}
+.button img{
+    height: 100%;
+    width: 100%;
+}
+#home{
+    height: 100px;
+    width: 60px;
+    z-index: 3;
+    position: absolute;
+    top: 0;
+    left: 20px;
+}
+body>h1{
+    height: 100px;
+    width: 60px;
+    z-index: 3;
+    position: absolute;
+    top: 0;
+    left: 100px;
+    font-size: 100px;
+    color: #fff;
+
+}
+
+#home i{
+    font-size: 60px;
+}
+
+@keyframes change {
+    0% {
+        background-position: 10%, 50%;
+    }
+    50% {
+        background-position: 100%, 50%;
+    }
+    100% {
+        background-position: 10%, 50%;
+    }
+}
+.button:hover{
+    transform: scale(1.1);
+}

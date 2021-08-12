@@ -1,0 +1,209 @@
+.portfolio {
+    width: 70%;
+    display: flex;
+    margin: 100px 0px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    height: 100%;
+    width: 40%;
+    background-color: rgb(34 47 62);
+}
+
+/* .dp{
+    height: 40px;
+    width: 40px;
+} */
+
+hr {
+    width: 80%;
+    align-self: center;
+    background-color: white;
+}
+
+.profile {
+    height: 320px;
+    margin: 20px 0 10px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-info {
+    height: 150px;
+    margin: 20px 0 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    font-size: 15px;
+    cursor: text;
+}
+
+.contact-info div {
+    margin: 5px 0 0 10px;
+    display: flex;
+    align-items: center;
+}
+
+.contact-info div:hover {
+    color: rgb(255, 159, 67);
+}
+
+.dp img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.education {
+    height: 380px;
+    margin: 20px 0 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    font-size: 15px;
+}
+
+.education div {
+    margin: 15px 0 0 0px;
+}
+
+.education div {
+    margin: 5px 0 0 10px;
+}
+
+.education h3 {
+    margin: 5px 0 0 0px;
+    color: black;
+}
+
+.year {
+    color: rgb(238, 82, 83);
+}
+
+.language {
+    height: 120px;
+    margin: 20px 0 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    font-size: 15px;
+}
+
+.language div {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.language div:hover {
+    font-size: 20px;
+}
+
+.language p {
+    width: 20%;
+}
+
+.proficient {
+    width: 200px;
+    background-color: black;
+    height: 3px;
+}
+
+#hin {
+    width: 90%;
+}
+
+.intrests{
+    height: 120px;
+    margin: 20px 0 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    font-size: 15px;
+}
+.allH{
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+
+}
+.int{
+    width: 40%;
+    padding: 5px;
+}
+
+.right {
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    width: 60%;
+    background-color: rgb(72, 219, 251);
+    display: flex;
+    flex-direction: column;
+}
+.right h2{
+    color:rgb(34 47 62);
+}
+.right h3{
+    color:rgb(87, 101, 116);
+}
+
+
+.right>div {
+    margin: 10px 20px 40px 20px;
+}
+
+.projects div {
+    margin: 10px;
+}
+
+summary {
+    margin: 15px;
+    color: rgb(0 0 0);
+}
+
+.proffesionalSkills {
+    display: flex;
+    flex-direction: column;
+}
+
+.lan {
+    height: 50px;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.lan>i {
+    height: 100%;
+    width: 60px;
+    font-size: 40px;
+    
+    color:rgb(34 47 62);
+}
+.lan>p {
+    
+    color:rgb(34 47 62);
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 60px;
+    font-size: 20px;
+}
+
+.per {
+    width: 400px;
+    height: 5px;
+    background-color: rgb(95, 39, 205);
+    display: flex;
+    align-items: flex-end;
+}
+.per>div{
+    height: 100%;
+    background-color: white;
+}
