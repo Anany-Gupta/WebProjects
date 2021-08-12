@@ -1,0 +1,310 @@
+.genre {
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    cursor: pointer;
+}
+
+.genre-img {
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+}
+
+.genre p {
+    font-size: 15px;
+}
+
+.search-genre {
+    height: calc( 100vh -50px);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 30px;
+    margin: 10px;
+    justify-content: space-evenly;
+}
+
+.search-heading {
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
+
+.playlist-title {
+    height: 150px;
+    font-size: 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: left;
+    padding-left: 10px;
+    z-index: 3;
+    background-color: #2d3436;
+    /* background:linear-gradient(top,pink,rgb(110, 98, 100)) ; */
+}
+
+.playlist-div {
+    height: calc(100vh-150px);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 15px;
+    gap: 30px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.single-playlist {
+    cursor: pointer;
+    border-radius: 10px;
+    position: relative;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 250px;
+    background-image: linear-gradient(to top, rgb(33 32 42 / 92%), rgb(136 143 166 / 95%));
+}
+
+.single-playlist:hover {
+    transform: scale(1.2);
+}
+
+.single-playlist:hover .playlist-name {
+    color: yellow;
+}
+
+.single-playlist:hover .playlist-description {
+    color: black;
+}
+
+.playlist-banner {
+    height: 70%;
+    width: 100%;
+}
+
+.banner-img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 100%;
+    width: 100%;
+}
+
+.playlist-name {
+    height: 25px;
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    overflow: hidden;
+}
+
+.playlist-description {
+    font-size: 10px;
+    padding-bottom: 4px;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.track-page-banner {
+    z-index: 4;
+    position: sticky;
+    top: 0;
+    height: 300px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-image: linear-gradient(to top, rgb(33 32 42), rgb(136 143 166));
+}
+
+.banner-img-div {
+    height: 100%;
+    width: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.link-playlist {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.track-page-banner-img {
+    border-radius: 10px;
+    height: 75%;
+    width: 75%;
+}
+
+.banner-title {
+    font-size: 85px;
+}
+
+.banner-title>div {
+    font-size: 20px;
+    margin-left: 25px;
+}
+
+.table {
+    background-image: linear-gradient(to bottom, rgb(42 35 11), rgb(65 46 27));
+}
+
+.thead {
+    font-size: 20px;
+    font-weight: bolder;
+    width: 100%;
+}
+
+.tr {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.td {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    height: 80px;
+}
+
+.Sno {
+    display: flex;
+    width: 5%;
+    align-items: center;
+    justify-content: center;
+}
+
+.Title {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.track-title {
+    cursor: pointer;
+    width: 30%;
+}
+
+.track-img-div {
+    border-radius: 2px;
+    margin: 5px;
+    height: 40px;
+    width: 40px;
+}
+
+.track-img {
+    border-radius: 2px;
+    height: 100%;
+    width: 100%;
+}
+
+.track-title-div {
+    width: 215px;
+    overflow: hidden;
+}
+
+.song-name {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.song-artist {
+    font-size: 10px;
+    color: cornsilk;
+}
+
+.Date-Added {
+    width: 20%;
+}
+
+.Albums {
+    width: 25%;
+}
+
+.Duration {
+    width: 10%;
+}
+
+.track-info-modal {
+    z-index: 5;
+    position: fixed;
+    top: 40%;
+    left: 40%;
+    height: 380px;
+    width: 600px;
+    background-color: #34495e;
+    display: flex;
+}
+
+.song-img {
+    height: 100%;
+    width: 65%;
+}
+
+.song-img img {
+    height: 100%;
+    width: 100%;
+}
+
+.track-info {
+    position: absolute;
+    top: 39%;
+    left: 70%;
+}
+
+.track-name {
+    font-size: 15px;
+    font-weight: bolder;
+    color: black;
+}
+
+.artist-name {
+    font-size: 15px;
+}
+
+
+.link-track {
+    text-decoration: none;
+    background-color: olive;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.close-modal {
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+    top: 5px;
+}
+
+.search-back,.search-back-1 {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 5px;
+}
+
+.tbody>.tr:hover {
+    background-color: grey;
+}
+
+.tbody>.tr:hover .Sno {
+    background-image: url('https://i0.wp.com/studioinstitute.org/wp-content/uploads/2020/07/play-button-overlay-png.png?fit=352%2C352&ssl=1');
+    /* z-index: 9; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 0px;
+}
