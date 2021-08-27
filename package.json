@@ -6,9 +6,12 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.9",
     "express": "^4.17.1",
+    "fake": "^0.2.2",
+    "faker": "^5.5.3",
     "json2xls": "^0.1.2",
     "nodemailer": "^6.6.1",
     "puppeteer": "^10.0.0",
+    "react-router-dom": "^5.2.0",
     "request": "^2.88.2",
     "spotify-web-api-node": "^5.0.2"
   },
