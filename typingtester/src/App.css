@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background-color: #34495e;
+  
+}
+
+.displayText{
+  width: 70vw;
+    display: flex;
+    overflow: hidden;
+    height: 10rem;
+    font-size: 30px;
+    position: absolute;
+    top: 17rem;
+    left: 15vw;
+    color: #f1c40f;
+}
+.text-tools{
+  
+  position: absolute;
+  top: 30rem;
+  left: 50vw;
+}
